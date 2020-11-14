@@ -161,3 +161,17 @@ ol li a{color:#fff;}
 p {
     color: black;
 }
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+}
+#flu {
+    width: 50%;
+}
+#cpr {
+    width: 50%;
+}
+#heart {
+    width: 50%;
+}
